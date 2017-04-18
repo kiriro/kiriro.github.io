@@ -5,8 +5,7 @@
 #
 title: /* kiriro mk.III */
 email: kirichou@sina.com
-description: purrrrrrrrrrrrrrrrrrrrrrrrr.
-url: https://kiriro.github.io/
+url: https://kiriro.github.io
 
 
 #
@@ -35,7 +34,7 @@ kramdown:
 owner:
   name: Kiri
   avatar: 72334d3ejw8erj8oskqopj2050050glw.jpg
-  job: "programmer."
+  job: "purrrrrrrrrrrrrrrrrrrrrrrrr."
   bio: "idle / daydream / damedame"
   email: kirichou@sina.com
   disqus-shortname:
