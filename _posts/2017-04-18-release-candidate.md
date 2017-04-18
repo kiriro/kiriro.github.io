@@ -14,9 +14,9 @@ image:
 
 Hello.
 
-This is **Kiri**. ²âÊÔÒ»ÏÂµÚÒ»¸öjekyllÒ³Ãæ¡£
+This is **Kiri**. æµ‹è¯•ä¸€ä¸‹ç¬¬ä¸€ä¸ªjekyllé¡µé¢ã€‚
 
 ![Avator Image]({{ site.url }}/img/72334d3ejw8erj8oskqopj2050050glw.jpg)
 {: .pull-right}
 
-µÈÓĞÁËÄÚÈİÔÙÕıÊ½¿ªĞ´°É¡£
+ç­‰æœ‰äº†å†…å®¹å†æ­£å¼å¼€å†™å§ã€‚
