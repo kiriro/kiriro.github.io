@@ -1,1 +1,69 @@
-theme: jekyll-theme-midnight
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: /* kiriro mk.III */
+email: kirichou@sina.com
+description: purrrrrrrrrrrrrrrrrrrrrrrrr.
+url: https://kiriro.github.io/
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Shanghai
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Kiri
+  avatar: 72334d3ejw8erj8oskqopj2050050glw.jpg
+  job: "programmer."
+  bio: "idle / daydream / damedame"
+  email: kirichou@sina.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: kiriro
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: kiriro
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: choutto
+  flickr: #username
+  500px: #username
+  codepen: #username
