@@ -7,7 +7,7 @@ tags: [test, jekyll, github-page]
 comments: true
 pinned: true
 image:
-  feature: 72334d3ejw8erj8oskqopj2050050glw.jpg
+  feature: https://upload.wikimedia.org/wikipedia/commons/4/41/Blank_Earth_Banner.jpg
 ---
 
 # Kiri mk.III - release candidate
