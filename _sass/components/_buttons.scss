@@ -9,21 +9,21 @@
   font-size: 0.875em;
   font-family: $font-family-base;
   font-weight: 700;
-  background-color: $primary;
+  background-color: $primaryb;
   color: $white;
   border-width: 2px !important;
   border-style: solid !important;
-  border-color: $primary;
+  border-color: $primaryb;
   text-decoration: none !important;
   border-radius: 5px;
   &:visited {
     color: $white;
-    border-color: $primary;
+    border-color: $primaryb;
   }
   &:hover {
     background-color: $white;
-    color: $primary;
-    border-color: $primary;
+    color: $primaryb;
+    border-color: $primaryb;
   }
 }
 
