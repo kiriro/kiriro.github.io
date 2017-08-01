@@ -41,17 +41,17 @@ Visual Studio community 真真儿是个良心的产品。
 
 事不宜迟，先装为敬。
 
-![先装为敬](2017-05-19-why-not-codelens-community/p001.png "不管三七二十一我就先装了个 community")
+![先装为敬](/assets/img/2017-05-19-why-not-codelens-community/p001.png "不管三七二十一我就先装了个 community")
 
 And ，一边装，一边在 Professional 的 layout 里发现了这个：
 
-![堂堂正正站在眼前的vsix](2017-05-19-why-not-codelens-community/p002.png "你好哇，CodeSense ！")
+![堂堂正正站在眼前的vsix](/assets/img/2017-05-19-why-not-codelens-community/p002.png "你好哇，CodeSense ！")
 
 咩哈哈哈哈哈哈，明目张胆的放个安装包在这里，事情才不会这么简单！能把巨硬社当傻子吗？不知道特洛伊木马也好歹听说过空城计吧？
 
 ……倒是，我干嘛要跟自己过不去啊。TuT
 
-![喜大普奔](2017-05-19-why-not-codelens-community/p003.png "你就不能给我个惊喜？非要给我个惊吓？")
+![喜大普奔](/assets/img/2017-05-19-why-not-codelens-community/p003.png "你就不能给我个惊喜？非要给我个惊吓？")
 
 ### 要搞破坏总共分几步？别分了，拆就对了
 
@@ -59,7 +59,7 @@ And ，一边装，一边在 Professional 的 layout 里发现了这个：
 
 嘛，总之，当 Zip 一拆就开。也就没什么好多说的了。
 
-![拆拆拆](2017-05-19-why-not-codelens-community/p004.png "就跟拆礼物一样的爽快")
+![拆拆拆](/assets/img/2017-05-19-why-not-codelens-community/p004.png "就跟拆礼物一样的爽快")
 
 不过话说回来，缺少 manifest 这种事情怎么想也不太科学。
 
@@ -67,27 +67,27 @@ And ，一边装，一边在 Professional 的 layout 里发现了这个：
 
 算了，我先凑个 manifest 进来看看错误消息会不会变再说。
 
-![缺啥补啥](2017-05-19-why-not-codelens-community/p005.png "补 patch 嘛，我补就是了")
+![缺啥补啥](/assets/img/2017-05-19-why-not-codelens-community/p005.png "补 patch 嘛，我补就是了")
 
-![二次包装](2017-05-19-why-not-codelens-community/p006.png "你现在的身份是 vsix")
+![二次包装](/assets/img/2017-05-19-why-not-codelens-community/p006.png "你现在的身份是 vsix")
 
-![以假乱真](2017-05-19-why-not-codelens-community/p007.png "去吧，少年！")
+![以假乱真](/assets/img/2017-05-19-why-not-codelens-community/p007.png "去吧，少年！")
 
 ……嗯，果然变了。（手动允悲）
 
-![再次喜大普奔](2017-05-19-why-not-codelens-community/p008.png "毫无意外地变了，然而并不是变成功")
+![再次喜大普奔](/assets/img/2017-05-19-why-not-codelens-community/p008.png "毫无意外地变了，然而并不是变成功")
 
 ### 没有自动挡还没有手动挡吗
 
 反正文件都解出来了，community 我也装了，我自己把文件一个一个补进去还不行。
 
-![还缺啥再补啥](2017-05-19-why-not-codelens-community/p009.png "补 patch 嘛，我继续补就是了")
+![还缺啥再补啥](/assets/img/2017-05-19-why-not-codelens-community/p009.png "补 patch 嘛，我继续补就是了")
 
-![翻山越岭](2017-05-19-why-not-codelens-community/p010.png "你看目标文件夹的路径都对的上")
+![翻山越岭](/assets/img/2017-05-19-why-not-codelens-community/p010.png "你看目标文件夹的路径都对的上")
 
 根据 manifest 的记载，整个儿把饱含了魔法 dll 的 CodeSense 文件夹拿进来。
 
-![谁还不会个复制粘贴](2017-05-19-why-not-codelens-community/p011.png "再去一次吧，少年！")
+![谁还不会个复制粘贴](/assets/img/2017-05-19-why-not-codelens-community/p011.png "再去一次吧，少年！")
 
 对了吧！这下总行了吧！
 
@@ -110,4 +110,4 @@ And ，一边装，一边在 Professional 的 layout 里发现了这个：
 
 老子去用 Visual Studio Code 了。
 
-![债见](2017-05-19-why-not-codelens-community/p014.png "如果说伤心总是难免的，你又何苦一往情深")
+![债见](/assets/img/2017-05-19-why-not-codelens-community/p014.png "如果说伤心总是难免的，你又何苦一往情深")
