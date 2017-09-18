@@ -44,7 +44,7 @@ pinned: false
 
 之所以标注了一下生产年份，其实是收到第二台 Gen 1 的时候发现的配件的变化：
 
-![CPU 首当其冲的吸引了我的视线](/assets/img/2017-09-16-cloud-in-my-room/IMG_83178.JPG "左边 14 年，右边 15 年")
+![CPU 首当其冲的吸引了我的视线](/assets/img/2017-09-16-cloud-in-my-room/IMG_83178.jpg "左边 14 年，右边 15 年")
 
 虽然 CPU 这里确实很醒目，不过后来一查其实是飞思卡尔在 14 年下旬就已经收购了 MindSpeed 的 CPU 产品，于是乎 15 年的货上就有了飞思卡尔的 logo ……
 
