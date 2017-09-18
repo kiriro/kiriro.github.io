@@ -48,7 +48,7 @@ pinned: false
 
 虽然 CPU 这里确实很醒目，不过后来一查其实是飞思卡尔在 14 年下旬就已经收购了 MindSpeed 的 CPU 产品，于是乎 15 年的货上就有了飞思卡尔的 logo ……
 
-另外，根据歪果大神 Fox_exe 的情报，日版有一个单独的型号 (BAGX | Mirror Man) 。
+另外，根据歪果大神 Fox_exe 的情报，日版有一个单独的型号 (BAGX - Mirror Man) 。
 
 不过我查证了一下，虽然是 15 年开始出货，不过硬件方案和 Gen 2 应该是一样的。但是，日版到现在也没有提供过新固件，也没有任何可以通刷 Gen 2 (Glacier) 的报告。但是，这个版本却提供了和 Mirror 还有 EX2 那样的可以安装的官方应用，比如 Transmission 和 Wordpress 等（我知道 Gen 2 也能装，但是需要一点 hack 手段，而日版是默认就可以的）。不知道有机会要不要收一台回来。
 
@@ -57,8 +57,8 @@ pinned: false
 ### 有什么不一样
 
 简单再提一下硬件差异吧：
-* Gen 1：MindSpeed Comcerto C2000 (650 MHz x 2 | A7l), 256MB Ram
-* Gen 2：Marvell Armada 370 (800 MHz x 2 | A7l), 512MB Ram
+* Gen 1：MindSpeed Comcerto C2000 (650 MHz x 2 , A7l), 256MB Ram
+* Gen 2：Marvell Armada 370 (800 MHz x 2 , A7l), 512MB Ram
 
 先说上面提到的关于 Samba 的性能问题。Fox_exe 在 WD 的讨论区里有提到可能是 CPU 的瓶颈，也就是之所以 WD 会在 04 版固件里宁可放弃默认兼容也要使用 64k 内存分页内核的原因，就是可以减少 CPU 的换页工作量来避免对文件传输效率的影响。而且根据他的实际测试，在不对 Samba 进行参数优化的情况下，默认 4k 分页的内核已经和 64k 分页的内核有了不小的差距。优化之后读取速度可以稳定在 90MB 左右，写速度大约是在 70MB 。剩下的就是 WD 对于 Samba 本身的优化了，主要是针对 tsocket 和 recvfile 的部分（很明显了吧）。具体处理我没仔细看，但应该是针对 64k 大页面的处理次数之类的优化什么的。
 
