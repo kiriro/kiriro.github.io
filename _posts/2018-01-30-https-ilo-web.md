@@ -24,7 +24,7 @@ NGINX 的配置就不说了，辣么简单。
 
 然后在这个域名的 DNS 记录指向的那台主机上装好 certbot ，用下面的这条命令获取证书文件：
 
-    certbot certonly --csr ilo.pem -d ilo.chiiruka.place
+    certbot certonly --csr ilo.pem -d ilo.example.com
 
 最后把 size 最大的那个 pem 文件的内容贴进“导入证书”按钮弹出的对话框里确定就行了。
 
